@@ -1,5 +1,4 @@
 import pywhatkit as kt
-import urllib.request
 import re
 import speech_recognition as sr
 import pyttsx3
@@ -126,7 +125,7 @@ def Loop():
 	if y == "x":
 		quit()
 	if y == "Error":
-		print("TRY AGAIN")
+		print("Error")
 	else:
 		print("Try again")
 
