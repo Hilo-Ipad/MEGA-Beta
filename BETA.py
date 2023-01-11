@@ -1,9 +1,10 @@
+import AppKit
+import pyautogui
+
 import pywhatkit as kt
 import re
 import speech_recognition as sr
 import pyttsx3
-import AppKit
-import pyautogui
 
 def sort(line):
 
