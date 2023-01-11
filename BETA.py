@@ -1,4 +1,4 @@
-import AppKit
+
 import pyautogui
 
 import pywhatkit as kt
